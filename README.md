@@ -20,6 +20,9 @@ A simple and interactive calculator built using **HTML, CSS, and JavaScript**. T
 
 ## 🚀 Getting Started
 
+### Run Online
+LINK - https://my-calculator-five-blush.vercel.app/
+
 ### Run Locally
 
 1. Clone this repository:
